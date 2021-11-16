@@ -14,57 +14,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+# What is this project?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project finds the size of the browser. According to the size, it categorized the browser as big, medium and small with named avatars Cuma, Esra and Sara respectively. All charachters have some specific properties but while resizing the web browser, if it remains the same category, its clothing, acessories, etc... changes randomly. 
+Avatars from [this project.](https://github.com/RobertBroersma/bigheads)
 
-### `npm run build`
+## Big Screen Type - Cuma Avatar
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Cuma1](https://user-images.githubusercontent.com/61011249/142075142-42ab86fe-8e0b-449e-9339-cfe66bf22f5b.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Medium Screen Type - Esra Avatar
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![es](https://user-images.githubusercontent.com/61011249/142075856-180ed8c4-8751-4c06-a8d5-257b0c1d3373.jpg)
 
-### `npm run eject`
+## Small Screen Type - Sara Avatar
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![sar](https://user-images.githubusercontent.com/61011249/142075874-7d19579d-9d0b-4bb5-9cfa-319ba4d052bb.jpg)
